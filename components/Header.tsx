@@ -14,7 +14,7 @@ function Header() {
             alt="logo"
           />
         </Link>
-        <h1>The PAPAFAM</h1>
+        <h1>The HUNCHOFAM</h1>
       </div>
 
       <div>
